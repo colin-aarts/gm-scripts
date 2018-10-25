@@ -1,0 +1,26 @@
+{
+	"private": true,
+	"name": "gm-scripts",
+	"version": "1.0.0",
+	"description": "Collection of personal GraphicsMagick scripts",
+	"dependencies": {
+		"colors": "^1.3.2",
+		"gm": "^1.23.1",
+		"minimist": "^1.2.0",
+		"mkdirp": "^0.5.1",
+		"util.promisify-all": "^1.0.2"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"gm",
+		"graphicsmagick",
+		"automation",
+		"image",
+		"manipulation"
+	],
+	"author": "Colin Aarts <https://colinaarts.com> (hello@colinaarts.com)",
+	"license": "UNLICENSED"
+}
